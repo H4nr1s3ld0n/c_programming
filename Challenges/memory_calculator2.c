@@ -15,7 +15,7 @@ int main() {
     int megabytes = 0;
     char type;
     
-    scanf("%c %d", &type, &quantity);
+    scanf("%c %d", &type, &quantity);   // Scanning the value type and the quantity. Only one type and value allowed. 
     
     if(type == 'i'){
         bytes += quantity * sizeof(int);
@@ -34,9 +34,9 @@ int main() {
         if(bytes>=1000){
             kilobytes = bytes/1000;
             bytes %= 1000;
-            printf("%d MB and %d KB and %d B", megabytes, kilobytes, bytes);
+            printf("%d MB and %d KB and %d B\n", megabytes, kilobytes, bytes);
         }else{
-        printf("%d MB and %d B", megabytes, bytes);
+        printf("%d MB and %d B\n", megabytes, bytes);
         return 0;
         }
     }
@@ -45,10 +45,10 @@ int main() {
     {
         kilobytes = bytes/1000;
         bytes %= 1000;
-        printf("%d KB and %d B", kilobytes, bytes);
+        printf("%d KB and %d B\n", kilobytes, bytes);
         return 0;
     }
     
-    printf("%d B", bytes);
+    printf("%d B\n", bytes);
     return 0;
 }
