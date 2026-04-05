@@ -1,3 +1,12 @@
+  /* 
+  Title : Memory Calculator 2
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : Calculates the memory space needed for arrays of double, int or chars with nice memory output
+  Notions : "%=" operator for the conversion process and sizeof() function 
+  */
+
+
 #include <stdio.h>
 int main() {
     int quantity = 0;
@@ -18,7 +27,7 @@ int main() {
         bytes += quantity * sizeof(char);
     }
     
-    if(bytes>=1000000){  // Checking if there are any MB and converting
+    if(bytes>=1000000){               // Checking if there are any MB and converting the values
         megabytes = bytes/1000000;
         bytes %= 1000000;
         
