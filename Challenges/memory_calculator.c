@@ -1,4 +1,10 @@
-
+  /* 
+  Title : Memory Calculator
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : Calculates the memory space needed for arrays of double, int or chars.
+  Notions : Use of the function sizeof()
+  */
 
 #include <stdio.h>
 
