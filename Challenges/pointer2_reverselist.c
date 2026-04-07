@@ -1,3 +1,12 @@
+/* 
+  Title : Reverse array 6
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : Reverse a 6 integer array using a for loop combined with pointers.
+  Notions : Pointers
+  */
+
+
 #include <stdio.h>
 
 void reverseArray(int *);
@@ -19,9 +28,6 @@ int main(){
     
     return 0;
 }
-
-
-
 
 void reverseArray(int *ptr){
     int i, tmp;
