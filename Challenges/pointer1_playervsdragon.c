@@ -2,7 +2,7 @@
   Title : Player v.s Dragon
   Date : April 2026
   Author : H4nr1s3ld0n
-  Description : A modelisation of a payer using pointers
+  Description : A modelisation of a player using pointers
   Notions : Pointers !
   */
 
