@@ -1,3 +1,11 @@
+/* 
+  Title : Chcolate Pointer Cake
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : Chocolate recipe using pointers and applying a ratio to the ingredients.
+  Notions : Pointers
+  */
+
 #include <stdio.h>
 
 int main(void){
