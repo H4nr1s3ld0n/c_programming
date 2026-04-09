@@ -1,4 +1,10 @@
-
+/* 
+  Title : Matrix Sum
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : matrix sum using functions and pointers 
+  Notions : Pointers
+  */
 
 #include <stdio.h>
 void sum_matrix(int * mat1, int *mat2, int *res, int line, int col);
