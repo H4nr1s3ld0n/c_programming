@@ -15,7 +15,9 @@ int main(void){
     double dry[3];             
     double *cake[2] ={liquid, dry};
 
+    printf("Please enter two liquids : ");
     scanf("%lf %lf", &liquid[0], &liquid[1]);
+    printf("And now enter your three dry ingredients : ");
     scanf("%lf %lf %lf", &dry[0], &dry[1], &dry[2]);
 
     totalLiquid = cake[0][0] + cake[0][1];                // Using pointer with brackets to point to liquid
