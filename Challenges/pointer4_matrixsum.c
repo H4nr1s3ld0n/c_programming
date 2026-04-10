@@ -22,6 +22,7 @@ int main(void) {
             scanf("%d", &mat1[line][col]);
         }
     }
+    printf("Enter your second matrix :\n");
     for(line=0;line<3;line++){
         for(col=0;col<3;col++){
             scanf("%d", &mat2[line][col]);
