@@ -1,3 +1,12 @@
+ /* 
+  Title : Memory Allocator
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : Allocates dynamic memory for network settings (IP, mask) and DNS domain names.
+  Notions : Dynamic memory allocation using malloc(), calloc(), free
+  */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
