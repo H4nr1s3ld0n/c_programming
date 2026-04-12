@@ -1,3 +1,11 @@
+ /* 
+  Title : Date printer and adds 1 day to the actual date
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : Adds one day to the given date, handles february and january months. 
+  Notions : Passing structures into a function.
+  */
+
 #include <stdio.h>
 
 
