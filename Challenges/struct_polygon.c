@@ -1,3 +1,10 @@
+ /* 
+  Title : Polygon initialization
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : Creates a structure of a polygon of num vertices and initializes the structure.
+  */
+
 #include <stdio.h>
 #include <stdlib.h>
 
