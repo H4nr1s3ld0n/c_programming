@@ -1,3 +1,11 @@
+ /* 
+  Title : Prints the coordinates of four points. 
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : Passes an array of structure into a fonction through a pointer to read and print it.
+  Notions : Passing array of structures into a function.
+  */
+
 #include <stdio.h>
 struct point{
     int a;
