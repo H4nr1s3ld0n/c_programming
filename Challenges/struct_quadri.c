@@ -16,6 +16,7 @@ struct point{
 void printPoint(struct point pt);
 void readPoint(struct point * ptr);
 void printTriangle(struct point *ptr);
+
 int main(void) {
     struct point quadri[3];
     int i;
