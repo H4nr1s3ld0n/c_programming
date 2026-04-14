@@ -1,5 +1,5 @@
  /* 
-  Title : Studen Linked List
+  Title : Student linked list
   Date : April 2026
   Author : H4nr1s3ld0n
   Description : Takes a list, uses addStudent() to insert memory location in the structure, then uses it to print each one.
