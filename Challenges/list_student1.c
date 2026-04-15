@@ -1,3 +1,10 @@
+  /* 
+  Title : Student List 1
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : Structure of student that takes input and allocates memory through createStudent function, array of char is passed through copyStr() into the upper function.
+  */
+
 #include <stdio.h>
 #include <stdlib.h>
 
