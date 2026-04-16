@@ -1,3 +1,10 @@
+/* 
+  Title : Student List 1
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : Uses functions to create students (data hardcoded), append them, print and then frees the memory with a freeStudent().
+  */
+
 #include <stdio.h>
 #include <stdlib.h>
 
