@@ -1,5 +1,5 @@
 /* 
-  Title : Student List 1
+  Title : Student List 2
   Date : April 2026
   Author : H4nr1s3ld0n
   Description : Uses functions to create students (data hardcoded), append them, print and then frees the memory with a freeStudent().
