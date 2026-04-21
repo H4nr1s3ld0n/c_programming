@@ -1,4 +1,10 @@
-
+  /* 
+  Title : Bank Authentication
+  Date : April 2026
+  Author : H4nr1s3ld0n
+  Description : Allows a user to authenticate against hardocded names and passwd 
+  Notions : Use of strcmp, creating a dictionnary-like structure
+  */
 
 
 
